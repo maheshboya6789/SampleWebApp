@@ -16,7 +16,9 @@ pipeline {
         
          stage('Deploy') {
             steps {
-                echo "Deployment"
+              sshagent(['tomcat-user']) {
+                echo "Hello"
+               }
             }
         }
     }
