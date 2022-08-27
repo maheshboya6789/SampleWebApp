@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('GitHub Repo') {
             steps {
-                git "https://github.com/maheshboya6789/node-app.git"
+                git "https://github.com/maheshboya6789/SampleWebApp.git"
             }
         }
         
