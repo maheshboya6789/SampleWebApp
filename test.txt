@@ -6,6 +6,7 @@ fund3()
 fun4()
 fund5()
 fund6()
+fun7()
 endpint
 fun11()
 fun12()
