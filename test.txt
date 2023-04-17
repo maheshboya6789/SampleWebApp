@@ -4,3 +4,6 @@ fun1()
 fun2()
 fund3()
 endpint
+fun11()
+fun12()
+fun13()
