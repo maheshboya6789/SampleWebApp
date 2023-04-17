@@ -5,3 +5,5 @@ funex(){}
 fund2(){}
 
 fun4(){}
+fund5(){}
+fun6(){}
