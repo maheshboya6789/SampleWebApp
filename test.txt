@@ -1,3 +1,6 @@
 
 hello world mahesh
 fun1()
+fun2()
+fund3()
+endpint
